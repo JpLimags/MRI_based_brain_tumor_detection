@@ -1,0 +1,15 @@
+data:
+  # caminhos e parâmetros de carregamento
+  ...
+
+model:
+  # hiperparâmetros de arquitetura
+  ...
+
+training:
+  # epochs, batch_size, learning_rate, etc.
+  ...
+
+output:
+  # onde salvar modelos, plots, métricas
+  ...
